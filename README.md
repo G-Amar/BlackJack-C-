@@ -1,10 +1,10 @@
 # BlackJack-C-sharp
 
-This program simulates the card game BlackJack on a Wondows Form GUI.
+This program simulates the card game BlackJack on a Windows Form GUI.
 
 OOP featuers are used to create various things needed for this such as Cards, Hands, and Decks.
 
-When starting up the program, you will be greeted with this form:
+When starting up the program, you will be greeted with this window:
 
 ![image](https://user-images.githubusercontent.com/95401100/195230537-02267ed5-5969-4398-88c8-bb5ec9bed3c5.png)
 
